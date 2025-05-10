@@ -1,17 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
-<p align="left">My name is Aryan Warekar and I'm a Front end developer from Nagpur, Maharashtra .</p>
-
-###
-
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=false&vCenter=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Warekar;Front-End+Developer;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
 </h2>
 
+###
 
-
+<p align="left">My name is Aryan Warekar and I'm a Front end developer from Nagpur, Maharashtra .</p>
 
 ###
 
