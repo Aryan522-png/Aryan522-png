@@ -2,11 +2,16 @@
 
 ###
 
-<p align="left">My name is Aryan Warekar and I'm a Front end developer , from Nagpur Maharashtra .</p>
+<p align="left">My name is Aryan Warekar and I'm a Front end developer from Nagpur, Maharashtra .</p>
 
 ###
 
-<h2 align="left">HI ! , Myself Aryan Warekar , I am passionate Front End Developer and currently learning DSA in C++ . Alot more to do......</h2>
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=false&vCenter=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Warekar;Front-End+Developer;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
+</h2>
+
+
+
 
 ###
 
@@ -43,10 +48,18 @@
 ###
 
 <div align="left" dispaly:flex flex-direction:row justify-content : space-between >
+<h2 align="left">Connect me through :</h2>
+
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/aryan_18748/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <a href="mailto:aryanwarekar101@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><i class="fas fa-envelope"></i> </a>
+
+
+</div>
+
+<div align="left" dispaly:flex flex-direction:row justify-content : space-between >
+
 
 
 </div>
