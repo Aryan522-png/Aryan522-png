@@ -1,69 +1,24 @@
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-<h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=false&vCenter=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Warekar;Front-End+Developer;Learning+DSA+in+C%2B%2B" alt="Typing SVG" />
-</h2>
-
-###
-
-<p align="left">My name is Aryan Warekar and I'm a Front end developer from Nagpur, Maharashtra .</p>
-
-###
-
-<p align="left">✨ Creating bugs since June 2024 .<br>📚 I'm currently learning DSA in C++.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node.js logo"  />
+# 💫 About Me:
+🔭 I’m currently working on Movie Booking Website<br>👯 I’m looking to collaborate on Exciting web development projects, especially anything involving React, Node.js, or cool UI/UX ideas!<br>🤝 I’m looking for help with Cloud Cloud technologies — AWS, serverless setups, deployments, architecture… anything that helps me scale my projects confidently.<br>🌱 I’m currently learning Data Structures & Algorithms in C++, sharpening my problem-solving and competitive programming skills.<br>💬 Ask me about Frontend development, React animations, UI design, JavaScript tricks, or anything tech that sparks curiosity! <br>⚡ Fun fact I debug faster with music on 🎧 — and my code somehow breaks the moment I say “this should work now.”
 
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_18748) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aryan-warekar-679971364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanwarekar101@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Aryan522-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aryan522-png&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan522-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan522-png&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryan522-png&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aryan522-png&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="left" dispaly:flex flex-direction:row justify-content : space-between >
-<h2 align="left">Connect me through :</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=Aryan522-png&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/aryan_18748/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="mailto:aryanwarekar101@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><i class="fas fa-envelope"></i> </a>
-
-
-</div>
-
-<div align="left" dispaly:flex flex-direction:row justify-content : space-between >
-
-
-
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
