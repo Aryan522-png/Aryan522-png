@@ -19,9 +19,7 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryan522-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aryan522-png&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan522-png&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Aryan522-png&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan522-png&theme=dark&hide_border=true&layout=compact)
 
 ---
