@@ -20,6 +20,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 # 📊 GitHub Stats:
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Aryan522-png&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan522-png&theme=dark&hide_border=true&layout=compact)
 
 ---
